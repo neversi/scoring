@@ -1,0 +1,35 @@
+,,Group,N,Actual Default %,Predicted Positive %,Gap (pp),AUROC
+income_bracket,0,High,363870,18.0,31.0,13.0,0.724
+income_bracket,1,Low,365376,23.4,53.8,30.4,0.695
+income_bracket,2,Mid,366882,21.2,42.4,21.2,0.718
+home_ownership,0,ANY,621,19.0,38.8,19.8,0.725
+home_ownership,1,MORTGAGE,533866,17.9,37.1,19.2,0.716
+home_ownership,2,OWN,131056,21.2,44.4,23.2,0.695
+home_ownership,3,RENT,430581,24.5,48.3,23.9,0.709
+dti_bracket,0,High,365014,25.4,59.4,34.0,0.699
+dti_bracket,1,Low,365639,17.3,27.8,10.5,0.718
+dti_bracket,2,Mid,365475,20.0,40.0,20.1,0.71
+purpose,0,car,12149,15.2,31.5,16.3,0.72
+purpose,1,credit_card,239718,18.3,34.3,16.0,0.719
+purpose,2,debt_consolidation,612488,22.1,47.5,25.3,0.712
+purpose,3,home_improvement,78885,18.2,34.1,16.0,0.715
+purpose,4,house,7141,24.6,48.7,24.1,0.696
+purpose,5,major_purchase,26509,20.3,35.8,15.5,0.723
+purpose,6,medical,15007,21.4,36.9,15.5,0.693
+purpose,7,moving,8273,23.3,41.0,17.7,0.699
+purpose,8,other,75066,20.9,40.5,19.6,0.704
+purpose,9,renewable_energy,755,23.0,42.8,19.7,0.663
+purpose,10,small_business,11302,30.6,49.4,18.8,0.686
+purpose,11,vacation,8826,18.6,31.5,12.9,0.697
+emp_length,0,1 year,73730,21.7,44.0,22.3,0.712
+emp_length,1,10+ years,363116,19.2,39.8,20.6,0.719
+emp_length,2,2 years,100654,20.7,43.1,22.4,0.714
+emp_length,3,3 years,89310,21.1,43.1,22.0,0.715
+emp_length,4,4 years,66642,21.1,43.5,22.4,0.715
+emp_length,5,5 years,67042,20.9,43.2,22.3,0.719
+emp_length,6,6 years,46973,20.1,42.2,22.1,0.719
+emp_length,7,7 years,38773,20.4,41.9,21.4,0.712
+emp_length,8,8 years,42444,20.4,41.6,21.2,0.722
+emp_length,9,9 years,38534,19.7,41.4,21.7,0.72
+emp_length,10,< 1 year,91527,22.0,43.6,21.6,0.706
+emp_length,11,Unknown,77383,27.9,49.5,21.6,0.679

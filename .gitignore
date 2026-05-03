@@ -1,0 +1,56 @@
+# Docs and scripts (excluded from repo)
+docs/
+scripts/
+
+# Data & models (too large for git)
+data/*.csv
+data/*.gz
+data/*.gzip
+data/*.zip
+data/processed/
+models/*.pkl
+models/*.joblib
+models/*.pt
+models/*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# MLflow
+mlruns/
+mlartifacts/
+
+# Presentation build artifacts
+reports/presentation.pptx
+docs/presentation/clips/*.mp4
+
+# LaTeX build artifacts
+docs/report/main.pdf
+docs/report/*.aux
+docs/report/*.bbl
+docs/report/*.blg
+docs/report/*.log
+docs/report/*.out
+docs/report/*.toc
+reports/texput.log

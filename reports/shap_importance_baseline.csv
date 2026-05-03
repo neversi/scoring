@@ -1,0 +1,134 @@
+feature,importance
+int_rate,0.34528783
+term_36.0,0.18321078
+loan_amnt,0.13518202
+annual_inc,0.12554787
+acc_open_past_24mths,0.12351166
+dti,0.117481336
+fico,0.075558394
+grade_a,0.06673237
+home_ownership_rent,0.06410296
+total_bc_limit,0.060380474
+total_il_high_credit_limit,0.053161517
+percent_bc_gt_75,0.052532654
+mo_sin_old_rev_tl_op,0.05179275
+mths_since_recent_bc,0.048146512
+bc_util,0.045116413
+mo_sin_rcnt_rev_tl_op,0.04248234
+tot_hi_cred_lim,0.04184008
+num_tl_op_past_12m,0.04144501
+mths_since_recent_inq,0.03939045
+delinq_2yrs,0.037668355
+num_rev_tl_bal_gt_0,0.03763154
+pct_tl_nvr_dlq,0.037498493
+grade_b,0.036875784
+mo_sin_rcnt_tl,0.03676885
+emp_length_nan,0.03594042
+revol_bal,0.03505394
+num_il_tl,0.034906417
+installment,0.03378375
+total_rev_hi_lim,0.032938972
+revol_util,0.032360736
+num_bc_tl,0.031041918
+avg_cur_bal,0.02948006
+num_rev_accts,0.027808584
+mort_acc,0.02744191
+home_ownership_mortgage,0.02728642
+tot_cur_bal,0.025365056
+bc_open_to_buy,0.025335316
+verification_status_source verified,0.02456737
+total_bal_ex_mort,0.024158126
+inq_last_6mths,0.024153143
+total_acc,0.022882791
+mo_sin_old_il_acct,0.02183247
+num_bc_sats,0.018901529
+num_accts_ever_120_pd,0.0185216
+purpose_credit_card,0.017884318
+num_actv_rev_tl,0.014118881
+num_actv_bc_tl,0.013254907
+emp_length_10+ years,0.0108652925
+term_60.0,0.010296737
+grade_d,0.010189673
+sub_grade_c1,0.010131971
+verification_status_verified,0.009529801
+num_sats,0.009453765
+num_op_rev_tl,0.009261953
+purpose_small_business,0.00884537
+open_acc,0.008422381
+emp_length_< 1 year,0.007566194
+tot_coll_amt,0.006932255
+pub_rec_bankruptcies,0.0067055733
+sub_grade_b5,0.0064329742
+grade_c,0.005907101
+pub_rec,0.005361687
+purpose_other,0.0050736153
+verification_status_not verified,0.0049648923
+sub_grade_b4,0.004107184
+sub_grade_c2,0.003927955
+sub_grade_d1,0.0037017686
+initial_list_status_f,0.0036888504
+emp_length_2 years,0.0036705234
+purpose_debt_consolidation,0.003588224
+num_tl_90g_dpd_24m,0.003570774
+sub_grade_b1,0.0032416238
+sub_grade_a5,0.0032088635
+purpose_car,0.0029500506
+sub_grade_b2,0.002872669
+sub_grade_c4,0.002632767
+sub_grade_d3,0.0025610456
+tax_liens,0.0025156676
+home_ownership_own,0.0022704508
+emp_length_3 years,0.0022383027
+emp_length_8 years,0.002074931
+purpose_medical,0.0020079212
+emp_length_5 years,0.0020056413
+emp_length_4 years,0.0019412466
+sub_grade_c5,0.0019410118
+collections_12_mths_ex_med,0.0018574501
+purpose_home_improvement,0.0017849676
+sub_grade_b3,0.001690976
+sub_grade_e1,0.001656964
+purpose_moving,0.001635195
+sub_grade_a4,0.0015994874
+chargeoff_within_12_mths,0.0013783264
+emp_length_7 years,0.0012700222
+emp_length_1 year,0.0012384212
+sub_grade_c3,0.001168696
+sub_grade_d2,0.0011478289
+purpose_major_purchase,0.0010869858
+purpose_house,0.0010853908
+purpose_vacation,0.0009479
+sub_grade_d5,0.00093359244
+sub_grade_a3,0.0009292427
+sub_grade_a1,0.0009211238
+num_tl_30dpd,0.00076823356
+purpose_wedding,0.0007568785
+emp_length_9 years,0.00074529205
+sub_grade_d4,0.000738444
+grade_e,0.00068229844
+sub_grade_e3,0.000671474
+grade_f,0.00066162937
+sub_grade_a2,0.00062158855
+emp_length_6 years,0.0005157106
+sub_grade_e2,0.00048123102
+sub_grade_e5,0.00040060104
+sub_grade_f4,0.00030446675
+sub_grade_f1,0.00020001314
+acc_now_delinq,0.0001839278
+purpose_renewable_energy,0.00016554221
+sub_grade_g2,0.00012955838
+sub_grade_e4,0.00012944618
+sub_grade_f2,9.5667325e-05
+sub_grade_f3,7.1610535e-05
+sub_grade_f5,6.6071385e-05
+initial_list_status_w,6.4750704e-05
+purpose_educational,5.634719e-05
+sub_grade_g1,2.7918044e-05
+home_ownership_other,2.0038551e-05
+sub_grade_g5,1.7499646e-05
+sub_grade_g4,1.6283066e-05
+grade_g,1.3732946e-05
+sub_grade_g3,2.8087002e-06
+home_ownership_none,2.7149717e-06
+home_ownership_any,0.0
+application_type_individual,0.0

@@ -1,0 +1,30 @@
+name: scoring
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - pytorch
+  - lightgbm
+  - xgboost
+  - pip
+  - pip:
+    - interpret
+    - shap
+    - fairlearn
+    - streamlit
+    - pandas
+    - scikit-learn
+    - matplotlib
+    - seaborn
+    - jupyter
+    - nbformat
+    - mlflow
+    - python-pptx
+    - optuna>=3.0
+    - pytest>=7.0
+    - transformers>=4.40
+    - accelerate>=0.30
+
+# claude --resume 01612bb2-1a90-40a8-af92-3898e8d2eac7
